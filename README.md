@@ -52,8 +52,8 @@ nvm use 22
 ### 2. Clone the repo
 
 ```bash
-git clone https://github.com/sindufha/newapp.git
-cd newapp
+git clone https://github.com/sindufha/notes.git
+cd notes
 ```
 
 ### 3. Create your `.env` file
@@ -145,7 +145,7 @@ npm run lint
 ## Project Structure
 
 ```
-newapp/
+notes/
 ├── index.html                 # HTML entry — PWA manifest + Google Fonts
 ├── package.json               # Dependencies & scripts
 ├── .env.example               # Environment template (copy to .env)
